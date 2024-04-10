@@ -1,5 +1,6 @@
 # Telecom Churn CaseStudy Using PCA and RF
 PCA and Random Forest were performed on the Telecom_Churn dataset as part of an assignment coursework for PG in Machine Learning and AI from IIIT Bangalore.
+Train_data can be downloaded from here : https://drive.google.com/file/d/1lh7Ek7vPYDy2KWXj4uc-H_Viuk1fvrZi/view?usp=sharing
 
 
 ## Table of Contents
